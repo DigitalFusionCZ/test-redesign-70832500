@@ -1,0 +1,125 @@
+{
+  "generated_at": "2025-07-29T06:38:50.591Z",
+  "total_images": 17,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO.png",
+      "file_path": "public/images/logo-line-house.png",
+      "file_name": "logo-line-house.png",
+      "description": "A minimalist line-art logo depicting a house outline in green. The design is simple and clean. Context: Used as a primary logo for the website. Its simplicity offers good scalability and recognition. Represents the core business of construction and building.",
+      "size_bytes": 210273
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1.jpg",
+      "file_path": "public/images/project-tanvald-renovated-chalupa.jpg",
+      "file_name": "project-tanvald-renovated-chalupa.jpg",
+      "description": "A newly renovated dark and white chalet-style house with a steep roof, surrounded by green grass and trees under a partly cloudy sky. Context: Featured as a completed project example on the homepage ('OMLAZENÍ CHALUPY U TANVALDU'). Good lighting and composition, showcasing the final result of a facade reconstruction and insulation project.",
+      "size_bytes": 690823
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/project-prague-renovated-family-house.jpg",
+      "file_name": "project-prague-renovated-family-house.jpg",
+      "description": "A renovated family house with a new dark gray tiled roof and light-colored facade, seen from the street with cars parked in front. The sky is partly cloudy. Context: Featured as a completed project example on the homepage ('KOMPLETNÍ REKONTRUKCE RODINNÉHO DOMU'). Shows a significant renovation, high quality image.",
+      "size_bytes": 558411
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/TANVALD2.jpg",
+      "file_path": "public/images/project-tanvald-finished-chalupa-exterior.jpg",
+      "file_name": "project-tanvald-finished-chalupa-exterior.jpg",
+      "description": "A renovated chalet-style house with a dark roof and white exterior, located in a green, wooded area. A person stands near the entrance on the right. Context: Found in the 'References' section, showcasing a completed facade and roof renovation project. High resolution and good overall visual quality.",
+      "size_bytes": 886649
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/NOVY_TANVALD3-scaled-1.jpg",
+      "file_path": "public/images/project-tanvald-finished-chalupa-side-view.jpg",
+      "file_name": "project-tanvald-finished-chalupa-side-view.jpg",
+      "description": "A side view of the renovated chalet-style house, featuring its new roof and white facade, surrounded by lush green foliage under a clear sky. A ladder is propped against the side of the house. Context: Found in the 'References' section, providing an alternative angle of a completed project. Good quality and shows attention to detail.",
+      "size_bytes": 742175
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/NOVY_TANVALD2-scaled-1.jpg",
+      "file_path": "public/images/project-tanvald-finished-chalupa-front-view.jpg",
+      "file_name": "project-tanvald-finished-chalupa-front-view.jpg",
+      "description": "The front view of a newly renovated chalet-style house with a dark roof, white facade, and dark brown window frames, set against a backdrop of dense forest. Context: Found in the 'References' section, highlights the completed exterior work. Good quality and clearly displays the outcome.",
+      "size_bytes": 780486
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD_Z_PO-scaled-1.jpg",
+      "file_path": "public/images/project-tanvald-bathroom-renovation-after.jpg",
+      "file_name": "project-tanvald-bathroom-renovation-after.jpg",
+      "description": "A freshly renovated bathroom with white walls, green tiles, a white toilet, and new light fixture. A round mirror leans against the wall. Context: 'After' image from the 'References' section, showing the result of an interior renovation. Good quality and clearly demonstrates the finished work.",
+      "size_bytes": 247960
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD_Z_PO2-scaled-1.jpg",
+      "file_path": "public/images/project-tanvald-hallway-renovation-after.jpg",
+      "file_name": "project-tanvald-hallway-renovation-after.jpg",
+      "description": "A renovated hallway space featuring newly plastered white walls, a wooden coat rack, a large window, and tiled flooring. Context: 'After' image from the 'References' section, providing a view of the completed interior work. Good lighting and detailed.",
+      "size_bytes": 306476
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/RDPO2-1-scaled-1.jpg",
+      "file_path": "public/images/project-prague-family-house-after.jpg",
+      "file_name": "project-prague-family-house-after.jpg",
+      "description": "A close-up view of a newly renovated house exterior featuring clean white walls and dark window frames. Shows multiple angles of the building's facade. Context: 'After' image from the 'References' section, highlighting the meticulous finishing of a renovation project in Prague. High quality and good representative of craftsmanship.",
+      "size_bytes": 364404
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/JEVANY-scaled-1.jpg",
+      "file_path": "public/images/project-jevany-new-modern-house-exterior.jpg",
+      "file_name": "project-jevany-new-modern-house-exterior.jpg",
+      "description": "A modern, light-colored, two-story house with dark roof tiles, partially under construction, showing initial facade work. Some scaffolding and construction materials are visible at the bottom. Context: 'In-progress' image from the 'References' section, illustrating a new build or substantial exterior renovation in Jevany. Good perspective and light, with potential to be part of a 'before/after' set if a matching 'after' is available.",
+      "size_bytes": 315921
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/JEVANY3.jpg",
+      "file_path": "public/images/project-jevany-new-modern-house-side-view.jpg",
+      "file_name": "project-jevany-new-modern-house-side-view.jpg",
+      "description": "A side view of a contemporary white house with dark window frames and a contrasting dark roof, located in a semi-rural setting. Construction materials are visible in the foreground. Context: 'In-progress' or near-completion image from the 'References' section, depicting a new construction or major rebuild. Good clear image of the facade.",
+      "size_bytes": 349730
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/JEVANY2-scaled-1.jpg",
+      "file_path": "public/images/project-jevany-new-modern-house-rear-view.jpg",
+      "file_name": "project-jevany-new-modern-house-rear-view.jpg",
+      "description": "The rear view of a modern two-story white house with several windows and a dark roof, showing the facade finish. Construction debris is visible around the base of the house. Context: Another 'in-progress' or near-completion image from the 'References' section, showing the back of the newly built or renovated property. Consistent quality with other Jevany images.",
+      "size_bytes": 262005
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/BRNO_PO-3.jpg",
+      "file_path": "public/images/project-brno-office-building-facade-after.jpg",
+      "file_name": "project-brno-office-building-facade-after.jpg",
+      "description": "The newly renovated orange facade of a multi-story office building with many white windows and ornate architectural details. Several cars are parked on the street in front. Context: 'After' image from the 'References' section, showcasing a completed facade renovation of a commercial building. Provides excellent context of finished work in an urban setting. Good resolution.",
+      "size_bytes": 452581
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/ZP.jpg",
+      "file_path": "public/images/project-land-networking-excavator-pit.jpg",
+      "file_name": "project-land-networking-excavator-pit.jpg",
+      "description": "An excavator positioned next to a newly dug pit, cordoned off with red and white striped tape, in a green field with other machinery in the background. Context: An 'in-progress' image from the 'References' section, illustrating land networking (zasíťování pozemků) or ground work services. Provides a clear visual of the work environment and equipment.",
+      "size_bytes": 570718
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/ZP-2.jpg",
+      "file_path": "public/images/project-land-networking-manhole-installation.jpg",
+      "file_name": "project-land-networking-manhole-installation.jpg",
+      "description": "A construction worker in a safety vest and hard hat crouching beside a large concrete manhole being installed in a trench. Context: An 'in-progress' image from the 'References' section, illustrating a specific aspect of land networking or utility installation. Good clear view of the work.",
+      "size_bytes": 757520
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/ZP-3.jpg",
+      "file_path": "public/images/project-land-networking-workers-paving-trench.jpg",
+      "file_name": "project-land-networking-workers-paving-trench.jpg",
+      "description": "Two construction workers in safety vests are working in a dug trench, appearing to lay down material for utility lines. The trench is surrounded by loose soil. Context: An 'in-progress' image from the 'References' section, showing the labor aspect of ground work or utility installation. Good raw depiction of work.",
+      "size_bytes": 394853
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/ZP-4.jpg",
+      "file_path": "public/images/project-land-networking-pipelaying-trench.jpg",
+      "file_name": "project-land-networking-pipelaying-trench.jpg",
+      "description": "A long, deep trench with large orange pipes laid along its length, and construction workers engaged in activity further down. An excavator is also visible in the background. Context: An 'in-progress' image from the 'References' section, clearly depicting pipeline installation work. Provides a comprehensive view of the trenching and piping process.",
+      "size_bytes": 748088
+    }
+  ]
+}
